@@ -17,6 +17,7 @@ By adding multiple words seperated only by a comma (no whitespace) then we can d
 ### Application build
 - Typescript
 - Node
+- NPM
 
 ### Testing
 - Jest used as unit testing tool (ts-jest required to work with Typescript)
